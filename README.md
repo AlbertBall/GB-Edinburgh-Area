@@ -1,6 +1,6 @@
 A simulation of quite an extensive area centred on Edinburgh Waverley.
 
-(Images/Edinburgh Area.bmp)
+![Edinburgh-Area](Images/Edinburgh Area.bmp)
 
 ## Current Status
 
