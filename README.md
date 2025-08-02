@@ -16,7 +16,10 @@ A simulation of quite an extensive area centred on Edinburgh Waverley.
 
 
 ## Data Sources
+- [TRAKSY.UK](https://traksy.uk/)
+- [RealTimeTrains](https://www.realtimetrains.co.uk/search/detailed)
+- [Open Train Times](https://www.opentraintimes.com/maps)
+- [OpenRailwayMap](https://www.openrailwaymap.org/)
+- [Network Rail Scotland Sectional Appendix](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
 
-- A List of links pointing to various sources
-- For example:
-- [Carto Metro Paris Metro Map](http://carto.metro.free.fr/cartes/metro-paris/)
+Status icons by Freepik, pixelmeetup, Pixel Perfect on FlatIcon.com.
