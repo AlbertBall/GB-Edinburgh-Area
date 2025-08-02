@@ -1,0 +1,16 @@
+rly_file = "Edinburgh Area.rly"
+ttb_files = [ "Edinburgh Area.ttb",]
+img_files = [ "Edinburgh Area.jpg",]
+doc_files = [ "Edinburgh Area.pdf",]
+release_date = "2025-08-03"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2025
+display_name = "Edinburgh Area"
+name = "Edinburgh Area"
+signal_position = "left"
+author = "RailOS DevTeam"
+contributors = []
+ssn_files = [ "Edinburgh Area prestart session.ssn",]
